@@ -1,6 +1,5 @@
 #include "Figures.cpp"
 
-void render_triangle();
 void render_foxy();
 void keyPressed(unsigned char, int, int);
 void keyDepressed(unsigned char, int, int);
